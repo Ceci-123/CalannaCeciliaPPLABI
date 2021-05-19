@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621433570 source:c:\users\user\desktop\laboratorio\moto.c
+	"moto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621435139 c:\users\user\desktop\laboratorio\moto.h
+
+1621435160 source:c:\users\user\desktop\laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+
